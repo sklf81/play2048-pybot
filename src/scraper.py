@@ -8,7 +8,7 @@ import threading
 import sys
 
 
-driver = webdriver.Chrome("D:\Projekte\_2048_BOT\chromedriver.exe")
+driver = webdriver.Chrome("chromedriver.exe")
 driver.get("https://play2048.co/")
 
 
